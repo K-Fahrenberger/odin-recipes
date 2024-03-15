@@ -10,3 +10,7 @@
 .ingredients {
   list-style-type: none;
 }
+
+ol {
+    list-style-type: upper-roman;
+  }
