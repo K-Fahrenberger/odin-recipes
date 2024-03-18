@@ -11,6 +11,7 @@
 
 .ingredients {
   list-style-type: none;
+  margin: 50px;
 }
 
 ol {
