@@ -1,16 +1,21 @@
 * {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 20px;
+  padding: 5px;
 }
 
 #description {
   font-size: large;
   background-color: rgb(234, 221, 154);
+  padding: 15px;
 }
 
 .ingredients {
   list-style-type: none;
+  margin: 50px;
 }
 
 ol {
     list-style-type: upper-roman;
+    margin: 50px;
   }
